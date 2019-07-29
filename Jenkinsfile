@@ -1,8 +1,7 @@
 node('master')
 
 {
-
-stage('Continuous Download') 
+stage('Continuous Download-master') 
    
 	 {
 	
@@ -10,7 +9,7 @@ stage('Continuous Download')
     
 	}
 
-stage('Continuous build') 
+stage('Continuous build-master') 
    
 	 {
 	
